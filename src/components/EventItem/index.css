@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.image-sizing {
+  width: 300px;
+}
+.list-container {
+  list-style-type: none;
+  margin-left: 5px;
+}
+.heading {
+  font-size: 20px;
+}
+.location {
+  font-size: 15px;
+}
+.content-container {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+}
